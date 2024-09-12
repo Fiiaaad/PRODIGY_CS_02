@@ -1,4 +1,4 @@
-Image Encryption using Pixel Manipulation
+## Image Encryption using Pixel Manipulation
 
 This Python project encrypts and decrypts images by manipulating pixel values. The encryption is done using the XOR operation with a secret key. The same key is used to decrypt the image back to its original form.
 
